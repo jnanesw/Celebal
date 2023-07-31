@@ -1,0 +1,17 @@
+.jumbotron{
+  background-image:  url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+.brand-icon {
+  font-size: 100px;
+  color: white;
+}
+.header{
+  font-family: "Roboto";
+  font-weight: 600;
+  color: antiquewhite;
+}
+
+
